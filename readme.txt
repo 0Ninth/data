@@ -1,3 +1,3 @@
-Git is good
+Git is shit
 
 Git is good
