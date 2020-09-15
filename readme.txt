@@ -1,5 +1,2 @@
-Git is actually a good software
+Git is a little difficult
 
-Git is good
-
-study hard
